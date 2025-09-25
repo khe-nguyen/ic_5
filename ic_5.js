@@ -71,3 +71,6 @@ return 0;
     }
 
 // Task 5. 
+function orderSubtotal(cart) {
+    
+}
